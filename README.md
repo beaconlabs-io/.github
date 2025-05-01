@@ -1,3 +1,1 @@
 # Beaconlabs.io
-
-## About BeaconLabs
